@@ -1,0 +1,10 @@
+# Core dependencies
+gradio>=3.0.0
+torch>=1.10.0
+numpy>=1.19.5
+imageio>=2.9.0
+easydict>=1.9
+Pillow>=8.0.0
+
+# Third-party extension used for the Gradio model viewer
+gradio_litmodel3d
